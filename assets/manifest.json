@@ -1,0 +1,24 @@
+{
+ "v": "v2",
+ "atlases": {
+  "hero": "hero.json",
+  "enA": "enA.json",
+  "enB": "enB.json",
+  "bag": "bag.json",
+  "sfx": "sfx.json"
+ },
+ "bgs": {
+  "bg_roof": {
+   "image": "bg_roof.webp",
+   "floor": 0.846
+  },
+  "bg_alley": {
+   "image": "bg_alley.webp",
+   "floor": 0.846
+  },
+  "bg_subway": {
+   "image": "bg_subway.webp",
+   "floor": 0.846
+  }
+ }
+}
